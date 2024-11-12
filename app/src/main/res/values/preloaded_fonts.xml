@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abeezee</item>
+        <item>@font/aclonica</item>
+        <item>@font/agbalumo</item>
+        <item>@font/alata</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/bebas_neue</item>
+        <item>@font/bungee</item>
+        <item>@font/courier_prime</item>
+        <item>@font/fahkwang_extralight</item>
+        <item>@font/habibi</item>
+        <item>@font/krona_one</item>
+    </array>
+</resources>
